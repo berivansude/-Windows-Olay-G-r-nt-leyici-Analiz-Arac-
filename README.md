@@ -15,8 +15,15 @@ Bu proje, **Windows Olay Görüntüleyici (Event Viewer)** üzerinden belirli bi
 - **Matplotlib grafikleri** ile hata, uyarı ve bilgi olaylarının sayısını görselleştirme  
 - **Word formatında detaylı rapor alma**  
 
-## 🛠 **Kullanım**  
-1. **Projeyi klonlayın:**  
-   ```sh
-   git clone https://github.com/KullanıcıAdın/Event-Viewer-Analyzer.git
-   cd Event-Viewer-Analyzer
+ 
+ 
+pip install -r requirements.txt
+Programı çalıştırın:
+
+python event_analyzer.py
+Oluşturulan raporu inceleyin:
+event_report.docx dosyasında detaylı olay geçmişi bulunacaktır.
+📜 Sistem Gereksinimleri
+Windows 10 veya üstü
+Python 3.8+
+Administrator yetkileri (Olay görüntüleyiciyi okumak için)
