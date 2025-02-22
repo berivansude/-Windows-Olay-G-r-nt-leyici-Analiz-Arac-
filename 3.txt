@@ -1,0 +1,8 @@
+Bilgisayarın olay görüntüleyicisinde oluşan olayların EventID (Olay kimliği) si ve olay açıklamasını araştırınız. Bütün EVentID  ve açıklamasını bir word olarak kaydediniz.
+
+Windows bilgisayarlarda bir arayüz uygulaması geliştirmenizi istiyorum. Arayüzde olay görüntüleyiciye bağlanacak. Arayüzde istediğim tarihi seçtiğimde o tarih aralığında Olay görüntüleyicisinde oluşan olayların uyarı derecesini (Düzey) gösteren bir grafik oluşturmalıdır. Örn: 28.10.2024 - 29.10.2024 seçtiğim zaman bu tarihler arasında  Bilgi, Hata, Uyarı sayısını ekranda gösterebilmelidir. Geliştireceğini arayüzü C, python, java vb programlama dili kullanabilirsiniz.
+
+Yukarıda verilen soruları açıklayacak bir  word dosyası oluşturunuz. Word dosyasını  ve geliştirdiğiniz yazılımı sisteme yükleyiniz. 
+
+İyi Çalışmalar
+
